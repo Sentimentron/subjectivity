@@ -1,4 +1,4 @@
 subjectivity
 ============
 
-Subjective phrase detectikon
+Subjective phrase detection
