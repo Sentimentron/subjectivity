@@ -1,4 +1,4 @@
-id,doc_id,start,end,token,tag,pos,neg,neu,total,conf
+id,doc_id,start,end,token,tag,synset,pos,neg,neu,total,conf
 1,1,0,1,;,",",,0,0,0,4,0.957011595420326
 2,1,2,3,I,O,,0,0,0,4,0.998120142929119
 3,1,4,9,could,V,,0,0,0,0,0.999775848356333
